@@ -1,3 +1,28 @@
 .text-center{
     padding-top: 30px;
 }
+.text-des{
+    font-size: 25px;
+    text-align: center;
+    margin-top: 20px;
+}
+.sweet-img{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+.card-body{
+    height: 700px;
+    width: 300px;
+}
+.card-text{
+    font-size: 20px;
+    margin-top: 25px;
+}
+.flex-container{
+    display: flex;
+}

@@ -1,6 +1,6 @@
 {
     "title":"Sweets Delights Emporium",
-    "description": "This is homepage description",
+    "description": "There's Lots Of Fun In Sweet.",
     "theme":{
         "DangerColor":"#cc0000",
         "secondaryColor":"#bf4080",
@@ -10,25 +10,25 @@
         {
             "title":"Balushahi",
             "img":"https://images.hindi.news18.com/ibnkhabar/uploads/2021/11/Balushahi.jpg",
-            "description": "Makhan Bada is a traditional dessert originating from the state of Bihar in Indian subcontinent. It is also known as Balusaahi and is similar to a glazed doughnut in terms of Ingredients, but differs in texture and taste.",
+            "description": "Makhan Bada is a traditional dessert originating from the state of Bihar in Indian subcontinent. ",
             "price": 200
         },
         {
             "title":"Gulab Jamun",
             "img":"https://www.indianhealthyrecipes.com/wp-content/uploads/2012/11/gulab-jamun-recipe-500x500.jpg",
-            "description": "Gulab jamun is a sweet confectionery or dessert, originating in Persia and then later introduced to the Indian subcontinent. It is popular in India, Pakistan as well as Myanmar.",
-            "price": 250
+            "description": "Gulab jamun is a sweet confectionery or dessert, originating in Persia and then later introduced to the Indian subcontinent. ",
+            "price":500
         },
         {
             "title":"Rasmalai",
             "img": "https://www.kashmironlinestore.com/cdn/shop/articles/Untitled_design_54_800x.jpg?v=1692702218",
-            "description": "Ras malai, also known as rosomalai, or roshmalai, is a dessert from the Indian subcontinent. The dessert is called roshmalai/rosmalai in Bengali, ras malai in Hindi, and rasa malei in Odia. It is popular in India, Bangladesh and Pakistan. ",
+            "description": "Ras malai, also known as rosomalai, or roshmalai, is a dessert from the Indian subcontinent. ",
             "price": 400
         },
         {
             "title":"Kajukatali",
             "img": "https://static.toiimg.com/thumb/55048826.cms?imgsize=392932&width=800&height=800",
-            "description": "Kajukatli is a very popular and luxurious sweet item. This sweet is made from Kaju (cashew nuts), Khoa & added sugar; Decorated with edible silver paper & cardamom.",
+            "description":" Kajukatali sweet is made from Kaju (cashew nuts), Khoa & added sugar; Decorated with edible silver paper & cardamom.",
             "price": 500
         }
 
