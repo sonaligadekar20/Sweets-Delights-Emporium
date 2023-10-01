@@ -7,7 +7,7 @@ function Home() {
         <>
             <div className='container' style={{ backgroundColor: Config.theme.accentColor }}>
                 <h1 className='text-center' style={{ color: Config.theme.DangerColor }}>{Config.title}</h1>
-                <p className='text-des'>{Config.description}</p>
+                <p className='text-description'>{Config.description}</p>
                
                <div className='flex-container'>
                {

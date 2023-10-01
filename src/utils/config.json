@@ -28,10 +28,21 @@
         {
             "title":"Kajukatali",
             "img": "https://static.toiimg.com/thumb/55048826.cms?imgsize=392932&width=800&height=800",
-            "description":" Kajukatali sweet is made from Kaju , Khoa & added sugar; Decorated with edible silver paper & cardamom.",
+            "description":" Kajukatali sweet is made from Kaju , Khoa & added sugar; Decorated with edible silver paper.",
             "price": "1kg - 800"
-        }
-
+        },
+        {
+            "title":"Rasgulla",
+            "img": "https://cdn.ready-market.com/101/21cd62de//Templates/pic/ANKO-Rasgulla-1200X1200.jpg?v=917d2891",
+            "description":" Rasgulla is made from ball-shaped  of chhena dough, cooked in light sugar syrup made of sugar. ",
+            "price": "1kg - 600"
+        },
+        {
+            "title":"Motichur Laddu",
+            "img": "https://www.agrasweetsbanjara.com/products/bgphotos/bimg63f745d734a49.jpg",
+            "description":"Motichoor Ladoos have a delicate and crunchy texture and more porous texture. ",
+            "price": "1kg - 600"
+        }             
     ]
 }
 

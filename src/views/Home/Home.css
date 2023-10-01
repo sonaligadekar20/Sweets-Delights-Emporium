@@ -1,10 +1,11 @@
 .text-center{
     padding-top: 30px;
 }
-.text-des{
+.text-description{
     font-size: 25px;
     text-align: center;
-    margin-top: 20px;
+    margin-top: 35px;
+    margin-bottom: 40px;
 }
 .sweet-img{
     border-radius: 50%;
@@ -16,8 +17,10 @@
     margin-top: 30px;
 }
 .card-body{
-    height: 600px;
-    width: 300px;
+    height: 530px;
+    width: 350px;
+    margin: 23px;
+    border-radius: 20px;
 }
 .card-text{
     font-size: 20px;
@@ -25,10 +28,11 @@
 }
 .flex-container{
     display: flex;
+    flex-wrap: wrap;
 }
 
 .buy-btn{
     width: 120px;
-    margin-top: 50px;   
+    margin-top: 40px;   
 }
 
