@@ -21,6 +21,7 @@ function Home() {
                                     <img src={img} className='sweet-img' />
                                     <p className='card-text'>{description}</p>
                                     <p className='card-text'><b>Price:</b> {price}</p>
+                                    <button className='btn btn-danger d-block mx-auto buy-btn' >Order Now</button>
                                 </div>
                             </div>
                         )
